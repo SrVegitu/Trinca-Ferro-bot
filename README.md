@@ -1,17 +1,7 @@
 # Aleatory MD - BOT DE WHATSAPP
 <div align="center">
 <img src="https://www.montarumnegocio.com/wp-content/uploads/2018/08/cria%C3%A7%C3%A3o-de-trinca-ferro.jpg" alt=" BOT" width="300" />
-
-</div>
-<p align="center">
-  <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-
-Precisa de ajuda ? Entra em nosso Chat: 
-
-https://chat.whatsapp.com/CeJrLkr13W1I0KRcfu9mtZ
-
-
+ 
 SÓ SERÁ NESCESSARIO DA OS COMANDOS BÁSICOS DO TERMUX, SE APÓS A INSTALAÇÃO DELE, NÃO FOI DADO ESSES COMANDOS LISTADOS. 
 
 _-_-_-_-_-_-_-_-_
@@ -65,20 +55,3 @@ cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracion
 
 
 _- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 
-
-_- PRA INSTALAR NO LINUX SÓ INSTALAR AS DEPENDENCIAS apt update
-_- apt update
-_- apt upgrade
-_- apt-get install ruby -y
-_- apt-get install lolcat -y
-_- apt install libwebp-dev -y 
-_- apt install ffmpeg -y
-_- apt install wget 
-_- apt install tesseract-ocr 
-_- apt install graphicsmagick 
-_- apt install imagemagick
-_- curl -sL https://deb.nodesource.com/setup_18.x -o nodesource_setup.sh
-_- sudo bash nodesource_setup.sh
-_- sudo apt install nodejs
-_- npm install pm2 -g
-_- apt install unzip
