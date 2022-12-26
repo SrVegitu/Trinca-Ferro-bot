@@ -66,18 +66,18 @@ cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracion
 
 _- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 
 
-_- PRA INSTALAR EM UMA VPS SÓ INSTALAR AS DEPENDENCIAS apt update
-apt upgrade
-apt-get install ruby -y
-apt-get install lolcat -y
-apt install libwebp-dev -y 
-apt install ffmpeg -y
-apt install wget 
-apt install tesseract-ocr 
-apt install graphicsmagick 
-apt install imagemagick
-curl -sL https://deb.nodesource.com/setup_18.x -o nodesource_setup.sh
-sudo bash nodesource_setup.sh
-sudo apt install nodejs
-npm install pm2 -g
-apt install unzip
+_- PRA INSTALAR NO LINUX SÓ INSTALAR AS DEPENDENCIAS apt update
+> apt upgrade
+> apt-get install ruby -y
+> apt-get install lolcat -y
+> apt install libwebp-dev -y 
+> apt install ffmpeg -y
+> apt install wget 
+> apt install tesseract-ocr 
+> apt install graphicsmagick 
+> apt install imagemagick
+> curl -sL https://deb.nodesource.com/setup_18.x -o nodesource_setup.sh
+> sudo bash nodesource_setup.sh
+> sudo apt install nodejs
+> npm install pm2 -g
+> apt install unzip
